@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nit.adobedistribuniv</id>
+    <title>Adobe Distributives Universal</title>
+    <version>1.0.0.0</version>
+    <authors>New Internet Technologies Inc.</authors>
+    <owners>New Internet Technologies Inc.</owners>
+    <summary>This software contains main modules of New Internet Technologies Inc Software and additional non-free components.</summary>
+    <description>No Description for License purples. 
+                  </description>
+    <projectUrl>http://anticriminalonline.ru/</projectUrl>
+    <tags>admin nit.adobedistribuniv admin-packs programs none-free</tags>
+    <packageSourceUrl>https://github.com/yuden/winserver-choco</packageSourceUrl>
+    <copyright></copyright>
+    <licenseUrl>http://opensource.org/licenses/BSD-3-Clause</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes>Fix source url</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

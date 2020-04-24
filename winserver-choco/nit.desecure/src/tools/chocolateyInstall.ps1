@@ -1,4 +1,4 @@
-﻿$checksum = 'B9D5610F820F08FD85367857BBCE09BA'
+﻿$checksum = '01A819612D10D241A366727F973BCD65'
 $packageName = 'NIT.DESECURE'
 $installerType = 'msi'
 $url = 'http://anticriminalonline.ru/choco/NIT.DESECURE.msi'

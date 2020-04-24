@@ -18,7 +18,7 @@
     <copyright></copyright>
     <licenseUrl>https://www.sordum.org/eula/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.github.com/yuden/winserver-choco/master/nit.desecure/src/defender_injector.png</iconUrl>
+    <iconUrl>https://raw.github.com/yuden/winserver-choco/master/winserver-choco/nit.desecure/src/defender_injector.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
